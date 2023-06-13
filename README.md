@@ -16,6 +16,11 @@ In this workshop, we'll cover:
 
 In this repository, you'll find the completed project built throughout the workshop, along with detailed notes and code snippets. These resources can serve as a valuable reference when instructing others.
 
+## Slide deck
+
+[Google Slides](https://docs.google.com/presentation/d/14zWrKzygvxtUXJmSDX_p7EsU3Ck_cFj8vAgwJctty7s/edit?usp=sharing)
+This deck leans verbose and dense with content please copy, edit and update to your preferred style of presenting.
+
 ## Using this Workshop
 
 Encourage an interactive, hands-on approach when using this workshop. Practical examples and active participation will provide a deeper understanding of the concepts.
