@@ -1,4 +1,4 @@
-# UI Foundations with Google Material Design 2.0 and React MUI Workshop
+# UI Foundations with Google Material Design 2.0 and React MUI Workshop - {WIP}
 
 Hello there! I'm Jeffrey, and welcome to the UI Foundations with Google Material Design 2.0 and React MUI Workshop. I've developed this open-source workshop to share with the developer community, specifically with team leaders, educators, or anyone else interested in teaching modern UI development with a focus on Material Design and React MUI.
 
