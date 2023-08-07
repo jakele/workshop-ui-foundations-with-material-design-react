@@ -36,3 +36,5 @@ This workshop is freely available. However, contributions to improve and expand 
 Your feedback is invaluable in refining this workshop and shaping future ones. Whether it's from you or from those you are instructing, please share all comments, suggestions, and ideas. Your feedback helps me understand what works well and where there's room for improvement.
 
 Thank you for choosing this workshop to guide your teaching efforts. Let's grow together in our understanding of frontend technologies, and make the web a better place to interact with. Happy coding!
+
+testing
